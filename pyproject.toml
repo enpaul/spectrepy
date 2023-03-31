@@ -12,6 +12,7 @@ packages = [
 keywords = ["spectre", "mpw", "password", "manager", "masterpassword"]
 readme = "README.md"
 classifiers = [
+  "Development Status :: 1 - Planning",
   "Environment :: Console",
   "Intended Audience :: Developers",
   "Intended Audience :: Information Technology",
